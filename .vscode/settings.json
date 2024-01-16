@@ -1,0 +1,21 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.base.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.controls.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.fxml.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.graphics.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.media.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.swing.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.web.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx-swt.jar",
+    "c:\\Program Files (x86)\\MySQL\\Connector J 8.0\\mysql-connector-j-8.0.33.jar",
+    "c:\\Users\\safae\\Downloads\\pdfbox-3.0.0-alpha3.jar",
+    "c:\\Users\\safae\\Downloads\\pdfbox-2.0.28.jar",
+    "c:\\Users\\safae\\Downloads\\jar_files\\itextpdf-5.5.9.jar",
+    "c:\\Users\\hp\\Downloads\\itextpdf-5.5.9.jar",
+    "c:\\Program Files\\Java\\mysql-connector-j-8.0.33\\mysql-connector-j-8.0.33.jar"
+  ]
+}

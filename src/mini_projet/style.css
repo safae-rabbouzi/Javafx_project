@@ -1,0 +1,85 @@
+/* style.css */
+*{
+    -fx-font-family : 'Arial';
+}
+.root {
+    -fx-background-color: #f4f4f4;
+}
+
+.label {
+    -fx-font-size: 15px;
+    -fx-text-fill: #333333;
+    -fx-font-weight: bold;
+}
+
+
+
+.button {
+    -fx-background-color: #4caf50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 4px 10px;
+}
+
+.alert_confirmation .button{
+    -fx-background-color: #2b4afa;
+}
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+.button:pressed {
+    -fx-background-color: #3c883f;
+}
+
+.table-view {
+    -fx-font-size: 14px;
+}
+
+.table-view .column-header {
+    -fx-padding: 8px;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: #f4f4f4;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #4caf50;
+    -fx-text-fill: white;
+}
+
+.text-field {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 1px;
+    -fx-padding: 4px;
+}
+
+.text-field:focused {
+    -fx-border-color: #4caf50;
+}
+
+.my-button-bar .button {
+    -fx-background-color: rgb(186, 137, 1);
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding : 5px 10px;
+}
+
+
+
+.grid_view .label{
+    -fx-color: #333333;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+}
+
+.grid_view .button{
+    -fx-background-color: #333333;
+    -fx-color : white;
+    -fx-padding : 10px 20px;
+}
+.grid_view .text{
+    -fx-font-size : 14px;
+}
